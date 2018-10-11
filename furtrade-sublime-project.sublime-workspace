@@ -1,0 +1,1133 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"day",
+				"dayrange"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"mon",
+				"monthHandler"
+			],
+			[
+				"da",
+				"dayrange"
+			],
+			[
+				"selected",
+				"selectedResult"
+			],
+			[
+				"selec",
+				"selectedLocation"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"re",
+				"returnResults"
+			],
+			[
+				"return",
+				"returnResults"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"img_r",
+				"img_r_crop"
+			],
+			[
+				"img",
+				"img_b_crop"
+			],
+			[
+				"max",
+				"max_loc_g"
+			],
+			[
+				"max_",
+				"max_loc_r"
+			],
+			[
+				"gshif",
+				"gshifty"
+			],
+			[
+				"im",
+				"img_b_crop"
+			],
+			[
+				"gshi",
+				"gshiftx"
+			],
+			[
+				"rea",
+				"readFiles"
+			],
+			[
+				"draw",
+				"drawBig"
+			],
+			[
+				"paths",
+				"pathsTitle"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"solid",
+				"solidEdges"
+			],
+			[
+				"soli",
+				"solidEdges"
+			],
+			[
+				"dashed",
+				"dashedEdges"
+			],
+			[
+				"set",
+				"setDashedParent"
+			],
+			[
+				"child",
+				"childIndex"
+			],
+			[
+				"drawn",
+				"drawnTree"
+			],
+			[
+				"dr",
+				"drawnPaths"
+			],
+			[
+				"dra",
+				"drawPaths"
+			],
+			[
+				"path",
+				"pathCollection"
+			],
+			[
+				"add",
+				"addPath"
+			],
+			[
+				"pa",
+				"pathCollection"
+			],
+			[
+				"PathCo",
+				"pathContainingNode"
+			],
+			[
+				"pat",
+				"pathContainingPrevNode"
+			],
+			[
+				"new",
+				"newPath"
+			],
+			[
+				"incom",
+				"incomingEdges"
+			],
+			[
+				"ed",
+				"edgeobj"
+			],
+			[
+				"ren",
+				"renderer"
+			],
+			[
+				"chi",
+				"childEdge"
+			],
+			[
+				"b",
+				"buildTreeHelper"
+			],
+			[
+				"edge",
+				"edgestrings"
+			],
+			[
+				"can",
+				"canvasName"
+			],
+			[
+				"canv",
+				"canvasName"
+			],
+			[
+				"la",
+				"layouter"
+			],
+			[
+				"Path",
+				"PathCollection"
+			],
+			[
+				"parent",
+				"parentEdge"
+			],
+			[
+				"root",
+				"rootNode"
+			],
+			[
+				"find",
+				"findNode"
+			],
+			[
+				"canvas",
+				"canvasName"
+			],
+			[
+				"ca",
+				"canvasDiv"
+			],
+			[
+				"rende",
+				"renderer2"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"layou",
+				"layouter2"
+			],
+			[
+				"layout",
+				"layouter"
+			],
+			[
+				"compo",
+				"componentDidMount"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"off",
+				"offerList"
+			],
+			[
+				"sele",
+				"selectedCard"
+			],
+			[
+				"is",
+				"isOwner"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"output",
+				"output_weight_vector"
+			],
+			[
+				"accu",
+				"accuracy"
+			],
+			[
+				"ac",
+				"actual_class"
+			],
+			[
+				"big",
+				"bigtestimg"
+			],
+			[
+				"bigt",
+				"bigtestimg"
+			],
+			[
+				"test",
+				"testimages"
+			],
+			[
+				"fi",
+				"final_confusion_matrix"
+			],
+			[
+				"ge",
+				"get_neighbors"
+			],
+			[
+				"neare",
+				"nearest_neighbor"
+			],
+			[
+				"testi",
+				"testimage"
+			],
+			[
+				"trainin",
+				"trainingimage"
+			],
+			[
+				"train",
+				"trainingimage"
+			],
+			[
+				"learning",
+				"learningrate"
+			],
+			[
+				"traini",
+				"trainingaccuracies"
+			],
+			[
+				"acc",
+				"accuracies"
+			],
+			[
+				"weight",
+				"weight_params"
+			],
+			[
+				"wei",
+				"weight_params"
+			],
+			[
+				"random",
+				"randomordering"
+			],
+			[
+				"cal",
+				"calculate_confusion_matrix"
+			],
+			[
+				"classi",
+				"classify_test"
+			],
+			[
+				"conf",
+				"confusionmatrix"
+			],
+			[
+				"class",
+				"classify_test"
+			],
+			[
+				"testing",
+				"testing_label_filename"
+			],
+			[
+				"trai",
+				"training_label_filename"
+			],
+			[
+				"training",
+				"training_filename"
+			],
+			[
+				"tra",
+				"traininglabels"
+			],
+			[
+				"tr",
+				"traininglabels"
+			],
+			[
+				"file",
+				"file_word_maps"
+			],
+			[
+				"memoi",
+				"memoized_fib"
+			],
+			[
+				"List",
+				"LinkedList"
+			],
+			[
+				"assi",
+				"assignedUserName"
+			],
+			[
+				"ass",
+				"assignedUserName"
+			],
+			[
+				"dat",
+				"dateCreated"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"user",
+				"userRoute"
+			],
+			[
+				"where",
+				"whereObj"
+			],
+			[
+				"erro",
+				"errorHandler"
+			],
+			[
+				"bloc",
+				"blockedPieces"
+			],
+			[
+				"winn",
+				"winner_exists_ec"
+			],
+			[
+				"winner_e",
+				"winner_exists_ec"
+			],
+			[
+				"white",
+				"whitecount"
+			],
+			[
+				"blac",
+				"black_workers"
+			],
+			[
+				"black",
+				"blacktotal"
+			],
+			[
+				"board",
+				"board_height"
+			],
+			[
+				"cap",
+				"capturedPieces"
+			],
+			[
+				"whit",
+				"white_workers"
+			],
+			[
+				"total",
+				"totalweight"
+			],
+			[
+				"sol",
+				"solnFuncCalls"
+			],
+			[
+				"in",
+				"inorderTraversal"
+			],
+			[
+				"rotate",
+				"rotateLeftRight"
+			],
+			[
+				"soln",
+				"solnFuncCalls"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"rota",
+				"rotateLeft"
+			],
+			[
+				"func",
+				"functionCalls"
+			],
+			[
+				"mov",
+				"movieList"
+			],
+			[
+				"for",
+				"forceUpdate"
+			],
+			[
+				"moi",
+				"movieList"
+			],
+			[
+				"filter",
+				"filterHandler"
+			],
+			[
+				"sel",
+				"selectedResultId"
+			],
+			[
+				"movie",
+				"movieList"
+			],
+			[
+				"movi",
+				"movieList"
+			],
+			[
+				"mo",
+				"movieList"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"handle",
+				"handleResultList"
+			],
+			[
+				"handl",
+				"handleResultList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1636,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "postcss.config.js",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "module.exports = {"
+			}
+		},
+		{
+			"file": ".babelrc",
+			"settings":
+			{
+				"buffer_size": 75,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/*"
+			}
+		},
+		{
+			"file": "source/server/config.js",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "module.exports = {"
+			}
+		},
+		{
+			"file": "source/server/server.js",
+			"settings":
+			{
+				"buffer_size": 1808,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/client/components/Home/Home.jsx",
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/client/index.jsx",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 30,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 653.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ziwei/Documents/FurTrade",
+		"/C/Users/Ziwei/Documents/FurTrade/source",
+		"/C/Users/Ziwei/Documents/FurTrade/source/client",
+		"/C/Users/Ziwei/Documents/FurTrade/source/client/components",
+		"/C/Users/Ziwei/Documents/FurTrade/source/client/components/Home",
+		"/C/Users/Ziwei/Documents/FurTrade/source/server",
+		"/C/Users/Ziwei/Documents/FurTrade/source/server/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/Ziwei/Documents/instabosch/InstaBoschFront/source/components/Home/Home.jsx",
+		"/C/Users/Ziwei/Documents/instabosch/source/components/Home/Home.scss",
+		"/C/Users/Ziwei/Documents/instabosch/source/components/Input/Input.scss",
+		"/C/Users/Ziwei/Documents/instabosch/source/components/Home/Home.jsx",
+		"/C/Users/Ziwei/Documents/instabosch/source/components/Search/Search.jsx",
+		"/C/Users/Ziwei/Documents/instabosch/source/components/Header/Header.scss",
+		"/C/Users/Ziwei/Documents/instabosch/source/client/components/Search.jsx",
+		"/C/Users/Ziwei/Documents/instabosch/source/server/models/user.js",
+		"/C/Users/Ziwei/Documents/instabosch/source/client/html/index.html",
+		"/C/Users/Ziwei/Documents/instabosch/source/server/config.js",
+		"/C/Users/Ziwei/Documents/instabosch/source/server/routes/index.js",
+		"/C/Users/Ziwei/Documents/instabosch/source/server/server.js",
+		"/C/Users/Ziwei/Documents/instabosch/source/client/index.jsx",
+		"/C/Users/Ziwei/Documents/instabosch/source/server/models/pictureSchema.js",
+		"/C/Users/Ziwei/Documents/instabosch/source/client/assets/placeholder.txt",
+		"/C/Users/Ziwei/Documents/instabosch/source/client/styles/main.scss",
+		"/C/Users/Ziwei/Documents/instabosch/gitignore",
+		"/C/Users/Ziwei/Documents/instabosch/webpack.config.js",
+		"/C/Users/Ziwei/Documents/CS598/theme.css",
+		"/C/Users/Ziwei/Documents/CS598/index.html",
+		"/C/Users/Ziwei/Documents/CS598/graph_vis.js",
+		"/C/Users/Ziwei/Documents/CS598/tree.js",
+		"/C/Users/Ziwei/Documents/CS498RK/cs498rk_final_project/package.json",
+		"/C/Users/Ziwei/Documents/CS498RK/cs498rk_final_project/source/client/components/CardDetail/CardDetail.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/cs498rk_final_project/source/client/components/Profile/ProfileCardList/ProfileCardList.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/cs498rk_final_project/source/client/components/Home/OfferList/OfferList.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/cs498rk_final_project/node_modules/bluebird/js/release/props.js",
+		"/C/Users/Ziwei/Documents/CS440MP4/Part1/__init__.py",
+		"/C/Users/Ziwei/Documents/CS598/dracula.min.js",
+		"/C/Users/Ziwei/Documents/CS498RK/mp3/routes/tasks.js",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/main.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/avltree.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/tests/basic.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/avltree_given.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_quacks_new/Makefile",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_quacks_new/tests/basic.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/soln_testavl.out",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_gdb2/Makefile",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/avltree.h",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/printtree.h",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/test/basic.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/Doxyfile",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_solution/main.cpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/test/quotes.txt",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/test/catch.hpp",
+		"/C/Users/Ziwei/Documents/CS225TA/assignments/lab_avl_new/test/catchlib.h",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/components/Home/Gallery.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/components/Home/Search.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/index.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/styles/Gallery.scss",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/styles/Search.scss",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/components/Home/Home.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/components/Home/Detail.jsx",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/styles/main.scss",
+		"/C/Users/Ziwei/Documents/CS498RK/mp2/source/components/Home/Home.scss"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1576,
+								1576
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "postcss.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module.exports = {",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/server/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module.exports = {",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/client/components/Home/Home.jsx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "source/client/index.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 148.0
+	},
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 148.0
+	},
+	"pinned_build_system": "",
+	"project": "furtrade-sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
