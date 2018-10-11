@@ -12,6 +12,7 @@ color: Color of the ears, or custom design, such as Hoshii's DVA ears, or themed
 type: Type of ear (pine marten, bunny, fox, wolf, cat, etc)
 release: YMD form of the date of the release. In the form "YYYY-MM-DD".
 copies: Copies of this item released. Default is 1.
+photo: URL of the ear
 */
 var EarSchema = new mongoose.Schema({
 	_id: String,
@@ -29,7 +30,8 @@ var EarSchema = new mongoose.Schema({
    	copies: {
    		type: Number,
    		default: 1
-   	}
+   	},
+   	photo: String
 });
 
 // Export the Mongoose model
